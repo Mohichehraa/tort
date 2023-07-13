@@ -1,0 +1,37 @@
+header{
+    position: relative;
+    width: 1440px;
+    height: 7000px;
+    border: 1px solid;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    width: 1317px;
+    height: 39px;
+    border: 1px solid;
+    top: 21px;
+    left: 60px;
+}
+.header__list{
+    position: absolute;
+    width: 1320px;
+    height: 435px;
+    border: 1px solid;
+    border-radius: 15px;
+    top: 77px;
+    left: 60px;
+}
+.header__img{
+    position: absolute;
+    width: 1320px;
+    height: 435px;
+    border-radius: 15px;
+}
+.nav__img{
+    position: absolute;
+    width: 20px;
+    height: 16px;
+    top: 10px;
+
+}
